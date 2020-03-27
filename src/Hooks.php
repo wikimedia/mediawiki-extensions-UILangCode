@@ -18,13 +18,13 @@ class Hooks {
 	/**
 	 * Hook: ParserGetVariableValueSwitch
 	 * @param \Parser $parser
-	 * @param array $varCache
+	 * @param array &$varCache
 	 * @param string $index
 	 * @param string &$ret
 	 */
 	public static function onParserGetVariableValueSwitch(
 		\Parser $parser,
-		array $varCache,
+		array &$varCache,
 		$index,
 		&$ret
 	) {
