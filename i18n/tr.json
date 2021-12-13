@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hedda"
+			"Hedda",
+			"BaRaN6161 TURK"
 		]
 	},
-	"uilangcode-desc": "<nowiki>{{UILANGCODE}}</nowiki> sihirli sözcüğünü oluşturur"
+	"uilangcode-desc": "<nowiki>{{UILANGCODE}}</nowiki> sihirli kelimesini sağlar"
 }
