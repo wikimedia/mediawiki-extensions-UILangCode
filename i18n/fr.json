@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
-	"uilangcode-desc": "Fournit le mot magique <nowiki>{{UILANGCODE}}</nowiki>"
+	"uilangcode-desc": "Fournit le mot magique <nowiki>{{UILANGCODE}}</nowiki>."
 }
